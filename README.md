@@ -52,8 +52,8 @@ Set yourself, with options for your preferences or device specs.
 # Windows - Copying output
 - Stop WSA
 - Delete contents of C:\WSA
--- This is the directory where WSA will be run from. It must be kept somewhere on the C: drive and cannot be edited while WSA is running 
--Extract .7z file: 
+-- This is the directory where your modified WSA will be run from. It must be kept somewhere on the C: drive and cannot be edited while WSA is running
+- Extract .7z file: 
 	- `7z x output/[filename].7z -o/mnt/c/WSA/`
 - Organize files in C:\WSA
 - run `Install.ps1`
